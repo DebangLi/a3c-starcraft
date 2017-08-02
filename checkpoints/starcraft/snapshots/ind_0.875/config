@@ -1,0 +1,1 @@
+{"save_intervel": 200000, "n_processes": 8, "name": "starcraft", "max_episode_length": 10000, "n_eval": 10, "beta": 0.05, "seed": 1, "lr": 0.001, "model_path": "checkpoints/starcraft/snapshots", "save_path": "checkpoints/starcraft", "ip": "159.226.178.201", "n_steps": 2000000, "t_max": 32, "weight_decay": 0.0}
