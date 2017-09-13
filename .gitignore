@@ -1,5 +1,5 @@
 #myself
-checkpoints
+checkpoints/
 model/
 model/*.pth
 model/checkpoints/*.pth
